@@ -10,10 +10,10 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Guysnove Lutumba](https://github.com/cbaker6) - `Northern Kentucky University`
+- [Ella Kapanga](https://github.com/cbaker6) - `Univesity of Kentucky` 
+- [Ricardo Medina](https://github.com/cbaker6) - `University of Texas` 
+- [Allan Joseph](https://github.com/cbaker6) - `Stevens Institute of Technology`
 
 ## Description
 <!--
