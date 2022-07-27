@@ -22,12 +22,14 @@ Developed by:
 ## 2. The Dataset
  The dataset used in this project was from the study, *Wearable and Automotive Systems for Affect Recognition from Physiology.* In this study researchers collect biometrics from nine individals across twenty-seven driving runs. Though only ten of the overrall driving runs were usable. The biometrics collect from this study were respiration rate (RESP), heart rate (HR), galvanic skin response (GSR),  electromyogram (EMG), blood volume pulse (BVP) and electrocardiograph (EKG). But for this project we only used RESP, HR, GSR and EMG.
  
+### Visual Signalings
  ![Graph_Drive](https://user-images.githubusercontent.com/32984143/181356665-42c631a3-2a55-4c20-9e87-214f49704df1.png)
 
 
 ## 3. Work
   This project we only used RESP, HR, GSR and EMG in measuring whether or not a patient is distress. Our parameter selection was influenced by the study, *Classification of Stress Recognition using Artificial Neural Network.* The study was primary focused on determined whether or not someone was stress or not. Stress is different from distress but there are similarities between the two. This study was able to determine when someone is stress with a 99% accuracy. As such, the same parameters where used in creating models to determine if someone is stress. We were able to get promising results but were not able to recreate the same results from the study. The model with the highest accuacy was a logregression model, with a 86% accuracy. 
 
+### Visual Modeling
 ![AMLI Final Project Methodology 1 (3)_COPY](https://user-images.githubusercontent.com/32984143/181356219-ac79aabd-2dd2-4d87-b39d-c7a8237a23a7.png)
 
 
